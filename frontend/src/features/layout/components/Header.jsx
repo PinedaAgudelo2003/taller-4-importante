@@ -40,7 +40,7 @@ function Header() {
     { text: "Metas", path: "/metas" },
     { text: "Estadísticas", path: "/estadisticas" },
     { text: "Acerca", path: "/acerca" },
-    { text: "Clima", path: "/ApiRyC" },
+    { text: "API", path: "/ApiRyC" },
   ];
 
   return (
