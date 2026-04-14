@@ -33,10 +33,6 @@ function Home() {
             }}
           >
             <Typography variant="overline" className="weather-section-title" gutterBottom>
-              Mundo del tiempo
-            </Typography>
-            <Divider />
-            <Typography variant="overline" className="weather-section-title" gutterBottom>
               https://github.com/PinedaAgudelo2003/taller-4-importante.git
             </Typography>
             <Typography variant="h3" fontWeight="bold" gutterBottom sx={{ color: "#f8fafc" }}>
