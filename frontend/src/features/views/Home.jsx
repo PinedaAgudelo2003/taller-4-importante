@@ -1,6 +1,6 @@
 ﻿import Header from "../layout/components/Header.jsx";
 import Footer from "../layout/components/Footer.jsx";
-import { Container, Typography, Box, Paper, Button } from "@mui/material";
+import { Container, Typography, Box, Paper, Button, Divider } from "@mui/material";
 import { useNavigate } from "react-router-dom";
 
 function Home() {
@@ -35,6 +35,7 @@ function Home() {
             <Typography variant="overline" className="weather-section-title" gutterBottom>
               Mundo del tiempo
             </Typography>
+            <Divider />
             <Typography variant="overline" className="weather-section-title" gutterBottom>
               https://github.com/PinedaAgudelo2003/taller-4-importante.git
             </Typography>

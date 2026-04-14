@@ -76,7 +76,7 @@ react4/
 
 ### 1. Clonar el repositorio
 ```bash
-git clone <repo-url>
+git clone https://github.com/PinedaAgudelo2003/taller-4-importante.git
 ```
 
 ### 2. Entrar al proyecto
@@ -112,7 +112,7 @@ npm run dev
 
 En `backend/.env` define tu conexión a MongoDB:
 ```env
-MONGO_URI=tu_mongo_connection_string
+MONGO_URI=mongodb+srv://brahianpineda12_db_user:98765Mama.@cluster0.1nhoshf.mongodb.net/weatherworld?retryWrites=true&w=majority
 PORT=4000
 ```
 
@@ -144,3 +144,4 @@ El backend puede desplegarse en plataformas como Vercel o Render. El frontend pu
 - Nombre: Brahian Pineda
 - Email: brahianpineda12@gmail.com
 - Proyecto adaptado a la temática de clima.
+- Fecha: 13/04/2026
